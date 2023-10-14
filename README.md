@@ -19,7 +19,7 @@ Notlar
 
 2.  Array’lerde merge sort yerine quick sort daha mantıklı çünkü merge sort o(n) extra space kullanıyor(mix array yüzünden),quick sort’ta extra space’i recursion’dan geliyor extra space alınmıyor çünkü yeni bir array oluşturulmuyor
 
-3.  Merge sortu linked list’lerde kullanmak daha mantıklı **(linked list’lerde contigious memory allocation olmadığı için)**
+3.  Merge sortu linked list’lerde kullanmak daha mantıklı **(linked list’lerde contiguous memory allocation olmadığı için)**
 
 
 ```
